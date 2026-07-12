@@ -2,6 +2,12 @@
 
 An AI-powered web application that classifies emails and SMS messages as **Spam** or **Not Spam** using Machine Learning.
 
+## 🌐 Live Demo
+
+👉 **Try the application here:**  
+https://email-spam-detector-b.streamlit.app
+
+
 ## ✨ Features
 
 - 🚨 Detects spam emails and SMS
